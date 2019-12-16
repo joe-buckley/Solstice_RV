@@ -35,8 +35,11 @@ The in-game status screen now displays the month just under the sun/moon widget.
 Current Temperature Ranges By Latitude:
 
 Latitude 46: Winter Day: -16.7 Night:-23.3   Summer Day: -0.5 Night: -17.1
+
 Latitude 53: Winter Day: -19.7 Night:-24.3   Summer Day: -2.6 Night: -17.6
+
 Latitude 60: Winter Day: -22.6 Night:-25.2   Summer Day: -5.0 Night: -18.1
+
 Latitude 65: Winter Day: -24.6 Night:-25.9   Summer Day: -6.9 Night: -18.5
 
 
