@@ -65,7 +65,6 @@
   <ItemGroup>
     <None Include=".gitignore" />
     <None Include="LICENSE" />
-    <None Include="mod-installer-description.json" />
     <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
